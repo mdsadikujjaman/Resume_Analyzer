@@ -8,8 +8,7 @@ An AI-powered resume analysis application built with **Python, Streamlit, CrewAI
 
 ## 📸 Application Screenshot
 
-<img width="1920" height="3932" alt="Image" src="https://github.com/user-attachments/assets/469d4ea9-5dbd-452f-906a-c198b2f2f3a4" />
-
+<img width="1920" height="4279" alt="Image" src="https://github.com/user-attachments/assets/efe34719-b01b-43b6-91e5-d3c08d853c4d" />
 
 
 *Replace the image path above with the actual path to your uploaded screenshot.*
